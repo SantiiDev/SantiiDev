@@ -1,7 +1,4 @@
 ### Hello, I'm SantiiDev 👋
-<html>
-  <br>
-</html>
 
 About Me
 - 💻 Front-End Developer
