@@ -1,5 +1,10 @@
 ### Hello, I'm SantiiDev 👋
+<br>
 
+About Me
+- 💻 Front-End Developer
+- 🚀 Python Developer
+- ⚡ Freelancer
 <!--
 **SantiiDev/SantiiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
