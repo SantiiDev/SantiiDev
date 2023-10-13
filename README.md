@@ -8,7 +8,7 @@
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
 ### Technologies
-
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 <!--
 **SantiiDev/SantiiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
