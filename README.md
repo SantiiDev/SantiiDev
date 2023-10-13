@@ -13,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=157286)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=Sql)
+![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=SQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 <!--
 **SantiiDev/SantiiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
