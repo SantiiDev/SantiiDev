@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind)
 
 
 ### Contact Me
