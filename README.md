@@ -13,8 +13,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=157286)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![MongoDB](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
 ![MongoDB](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 
