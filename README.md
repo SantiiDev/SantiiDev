@@ -2,7 +2,7 @@
 <h2>AI Developer💻</h2>
 
 ### About Me
-- I'm Santino and I am from Rosario, Argnetina.
+- I'm Santino and I am from Rosario, Argentina.
 - AI Developer.
 - Information Systems Engineering Student.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
