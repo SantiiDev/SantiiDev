@@ -10,7 +10,7 @@
 
 ### Technologies
 ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
-![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make&logoColor=6D00CC)
+![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make&logoColor=B02DE9)
 ![JavaSript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css&logoColor=157286)
