@@ -1,13 +1,16 @@
-<h1>Hello, I'm SantiiDev 👋🚀</h1>
-<h2>Front End Developer 💻</h2>
+<h1>Hello, I'm Santino Gallo 👋🚀</h1>
+<h2>AI Developer💻</h2>
 
 ### About Me
 - I'm Santino and I am from Rosario, Argnetina.
-- I am a Front-End developer.
+- AI Developer.
+- Information Systems Engineering Student.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+- I enjoy working with AI, automating processes, and developing automated systems.
 
 ### Technologies
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+![Make](https://img.shields.io/badge/-Make-333333?style=flat&logo=make)
 ![JavaSript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=157286)
