@@ -6,7 +6,7 @@
 - AI Developer.
 - Information Systems Engineering Student.
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with AI, automating processes, and developing automated systems.
+- I enjoy working with artificial intelligence, automating processes, and developing systems.
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
